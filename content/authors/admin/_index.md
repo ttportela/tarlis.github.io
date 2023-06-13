@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Tarlis Tortelli Portela
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Tarlis
+last_name: Portela
 
 # Status emoji
 status:
@@ -18,27 +18,29 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Federal Intitute of Science, Technology, and EDucation of Parana
+    url: [http://palmas.ifpr.edu.br/](http://palmas.ifpr.edu.br/)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data mining, machine learning and trajectories.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatio-temporal Data Mining
+  - multidimensional / Sequential Data
+  - Classification
+  - Trajectories
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Computer Science
+      institution: Federal University of Santa Catarina / University of Pisa
+      year: 2023
+    - course: MEng in Electrical Engineering
+      institution: UTFPR
+      year: 2013
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
