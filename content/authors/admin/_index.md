@@ -36,15 +36,21 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: Federal University of Santa Catarina / University of Pisa
+    - course: PhD, Computer Science
+      institution: Federal University of Santa Catarina (UFSC), Florianopolis, BR / University of Pisa (UniPi), Pisa, IT
       year: 2023
-    - course: MEng in Electrical Engineering
-      institution: UTFPR
+    - course: M.E., Electrical Engineering
+      institution: Federal Technological University of Parana (UTFPR), Pato Branco
+      year: 2015
+    - course: IT spc., Computer Networks
+      institution: Federal Technological University of Parana (UTFPR), Pato Branco
       year: 2013
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: IT spc., Software Engineering and Project Management
+      institution: Mater Dei, Pato Branco
+      year: 2009
+    - course: B.E., Information Systems Technology
+      institution: Federal Technological University of Parana (UTFPR), Pato Branco
+      year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,19 +62,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/tarlisportela
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=WCSdpCwAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/ttportela
+  - icon: instagram
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.instagram.com/tarlistortelli/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -83,5 +89,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tarlis Tortelli Portela is currently a professor at the Federal Institute of Education, Science and Technology of Paraná, Campus Palmas. PhD in Computer Science at the Federal University of Santa Catarina in cotutela with University of Pisa and ISTI-CNR. Master's at Electrical Engineering in the Postgraduate Program in Electrical Engineering by the Federal Technological University of Paraná (UTFPR), Campus Pato Branco. Specialist in Software Engineering and Project Management at Faculdade Mater Dei, and specialist in Computer Networks at UTFPR. Graduate at Technology in Information Systems (UTFPR). Has experience as software architect, engineer, and developer; business manager. Also acted as Course Coordinator and Internship Coordinator.
 {style="text-align: justify;"}
