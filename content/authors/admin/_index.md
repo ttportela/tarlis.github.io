@@ -18,8 +18,8 @@ role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Federal Intitute of Science\, Technology\, and EDucation of Parana
-    url: [http://palmas.ifpr.edu.br/](http://palmas.ifpr.edu.br/)
+  - name: "Federal Intitute of Science, Technology, and EDucation of Parana"
+  - url: [http://palmas.ifpr.edu.br/](http://palmas.ifpr.edu.br/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data mining, machine learning and trajectories.
